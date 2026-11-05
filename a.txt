@@ -1,1 +1,2 @@
 testando os comando sempre de ok antes
+entendendo o HEAD
