@@ -1,3 +1,4 @@
 testando os comando sempre de ok antes
 entendendo o HEAD
 ESTA LINHA FOI MODIFICADA NO OUTRO ramo
+entendendo o HEAD
